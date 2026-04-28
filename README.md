@@ -15,7 +15,7 @@ The goal is to improve user experience, navigation, and visual design.
 ## 🌐 Reference Website
 👉 https://physioactiveindia.com/
 
-## design screen
+## Design Screens
 https://www.figma.com/design/n6c668VXrB4geS7U0dZFUP/Redesign-website?node-id=225-64&t=ww0BMotAZPXuGgnr-1
 
 ## 📱 Figma Prototype
